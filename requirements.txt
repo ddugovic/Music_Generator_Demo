@@ -1,0 +1,6 @@
+msgpack
+numpy
+pandas
+python-midi
+tensorflow
+tqdm
